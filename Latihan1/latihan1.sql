@@ -1,3 +1,10 @@
+	CREATE TABLE mahasiswa(
+id int primary key,
+nim int,
+nama varchar(100),
+jurusan varchar(100),
+tanggalLahir date
+)
 
 INSERT INTO mahasiswa (id,nim,nama,jurusan,tanggalLahir)
 VALUES (1,233040133,'Tenz','Teknik Informatika','2000-01-01'),
