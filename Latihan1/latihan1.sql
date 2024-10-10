@@ -1,4 +1,4 @@
-	CREATE TABLE mahasiswa(
+CREATE TABLE mahasiswa(
 id int primary key,
 nim int,
 nama varchar(100),
