@@ -1,7 +1,3 @@
--- Soal no4
-
-USE pertemuan3
-
 SELECT 
   C.custid,
   C.companyname,
