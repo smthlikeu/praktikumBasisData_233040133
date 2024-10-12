@@ -1,4 +1,4 @@
--- Soal no2
+-- Soal no1
 
 USE pertemuan3
 
