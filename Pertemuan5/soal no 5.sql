@@ -1,4 +1,3 @@
-
 INSERT INTO dosen_wali (nip, nama, tanggal_lahir, alamat, no_hp)
 VALUES ('2555999', 'Jane Smith', '17-08-1945', 'holland' '05510505512616'),
 ('2555992', 'Jane fdafdaadSmith', '17-08-1945', 'holladddnd' '05515505012616'),
